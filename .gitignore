@@ -1,0 +1,61 @@
+## Fichiers générés par Visual Studio
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.ilk
+*.pdb
+*.log
+*.vs/
+.vs/
+*.idea/
+.idea/
+*.swp
+*.swo
+*~
+
+## Fichiers de build et de publication
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]uild/
+[Bb]uildOutput/
+[Pp]ublish/
+*.nupkg
+
+## Fichiers de l'IDE
+*.VC.db
+*.VC.VC.opendb
+
+## Fichiers NuGet
+[Nn]uget/
+*.nupkg
+packages/
+.nuget/
+NuGet.exe
+
+## Fichiers temporaires
+_ReSharper.*
+*.resharper
+[Tt]humbs.db
+[Tt]emp/
+
+## Fichiers de test
+*.testlog
+TestResult.xml
+
+## Fichiers de déploiement
+*.ps1
+*.cmd
+*.bat
+
+## Autres fichiers ignorés
+*.DotSettings
+*.cachefile
+*.opensdf
+*.sdf
+*.msi
+*.patch
