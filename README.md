@@ -17,8 +17,8 @@ This project demonstrates how to manage downloading and launching applications f
 - Simple interface to select and launch applications.  
 
 ## Technologies Used
-- Language: (C#, Java, or your project language)  
-- UI Framework: (e.g., WPF for C#)  
+- Language: C#
+- UI Framework: WPF, XAML  
 - HTTP Handling: REST API calls to fetch application data.  
 - File Management: Handles file downloads and local file verification.  
 
